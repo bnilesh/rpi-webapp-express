@@ -1,0 +1,12 @@
+{
+    "DAPPS": [{
+        "active": false,
+        "id": 2323,
+        "name": "test"
+    }],
+    "categoryid": 9999,
+    "userid": 1111,
+    "name": "amar tech",
+    "alias": "amar",
+    "categroy": "games"
+}
